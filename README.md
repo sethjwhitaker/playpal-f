@@ -1,7 +1,7 @@
 # PlayPal  
 
 - **Contributors:** Yuna Pahk, Seth Whitaker, Isaac Asher
-- [**Backend Render**](https://playpal-976f.onrender.com)
+- [**Heroku Backend**](https://git.heroku.com/playpal-yp.git/)
 - [**Deployed Site**](https://playpal-yunapahk.vercel.app/)
 - **Languages, Database, and Frameworks Used:** React, Express, Node, MongoDB, SASS, EJS, JSX, Javascript
 - [**Trello**](https://trello.com/b/6PwBedlF/playpal)
