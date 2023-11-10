@@ -220,7 +220,7 @@ form{
   background-color: #2a9612;
 }
 
-button{
+.custom-button{
   color: #2a9612;
   background-color:whitesmoke;
   margin-top: 0.5rem;
